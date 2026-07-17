@@ -100,7 +100,7 @@ data/
 ✔ Visualized geospatial insights using interactive maps
 
 ## Screenshot
-<img width="1920" height="1128" alt="Screenshot 2025-10-11 160914" src="https://github.com/user-attachments/assets/617d42bd-e89e-49fa-aefe-9714cd2ee47e" />
+<img width="120" height="128" alt="Screenshot 2025-10-11 160914" src="https://github.com/user-attachments/assets/617d42bd-e89e-49fa-aefe-9714cd2ee47e" />
 
 
 ## Future Improvements
