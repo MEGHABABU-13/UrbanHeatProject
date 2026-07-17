@@ -107,8 +107,3 @@ data/
 - Real-time monitoring
 - Mobile application
 - Heatwave alert system
-
-
-
-LinkedIn:
-GitHub:
